@@ -94,10 +94,10 @@ function validaCPF($cpf = null) {
 }
 
 session_start();
-$user = "agendauserdb"; 
-$password = "agendapassdb"; 
+$user = "root"; 
+$password = "root"; 
 $database = "agenda"; 
-$hostname = "localhosf"; 
+$hostname = "localhost"; 
  
 $conexao = mysqli_connect($hostname,$user,$password);
 $banco = mysqli_select_db($conexao,$database);

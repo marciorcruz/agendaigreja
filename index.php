@@ -314,7 +314,7 @@ if(count($_POST)){
                     CANCELAR AGENDAMENTO
                     </div>
                     <div class="card-body">
-                        Entre em contato com o Rev. Avaci!
+                        Entre em contato com o Pastor!
                     </div>
                 </div>  
             </div>
@@ -324,7 +324,7 @@ if(count($_POST)){
         <h2 >Instruções de agendamento para os cultos</h1>
         <p class="lead">É necessário para o retorno gradual do Culto na Igreja a limitação de pessoas no Templo, portanto faça o agendamento prévio para os Cultos.</p>
         <h2>LEIA COM ATENÇÃO ANTES DE REALIZAR O AGENDAMENTO</h2>
-        <p class="lead">O Conselho da Igreja aconselha os irmãos pertencentes ao grupo de risco que fique em casa! Os dois Cultos serão transmitidos ao vivo através do <a href="https://www.youtube.com/c/IgrejaPresbiterianaMonteSião"><b>YOUTUBE</b></a></p>
+        <p class="lead">O Conselho da Igreja aconselha os irmãos pertencentes ao grupo de risco que fique em casa! Os dois Cultos serão transmitidos ao vivo através do <a href="https://www.youtube.com/channel/UCOSD9zffyWmtUk4uPo_0_nA"><b>YOUTUBE</b></a></p>
         <br><b>GRUPO DE RISCO</b>
         <ul>
         <li>Idade < 12 anos e ≥ 65 anos.</li>
